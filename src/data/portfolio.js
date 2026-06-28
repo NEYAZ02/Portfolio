@@ -15,7 +15,8 @@ export const skills = [
   { group: 'Database', items: ['MySQL'] },
   { group: 'Core CS', items: ['Computer Network', 'Operating System', 'OOP Concepts'] },
   { group: 'Language', items: ['Python (Basic)'] },
-  { group: 'Tools', items: ['Git', 'GitHub', 'VS Code', 'MS Word', 'MS Excel'] }
+  { group: 'Tools', items: ['Git', 'GitHub', 'VS Code', 'MS Word', 'MS Excel' , 'Vercel'] },
+  { group: 'Web Technologies', items: ['REST API', 'Responsive Web Design'] }
 ];
 
 export const projects = [
